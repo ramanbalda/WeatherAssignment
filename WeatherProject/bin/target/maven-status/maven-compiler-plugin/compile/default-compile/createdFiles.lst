@@ -1,0 +1,10 @@
+org\example\entity\Weather.class
+org\example\entity\Coord.class
+org\example\entity\WeatherInfo.class
+org\example\entity\Wind.class
+org\example\Main.class
+org\example\entity\Clouds.class
+org\example\entity\City.class
+org\example\entity\WeatherData.class
+org\example\entity\MainWeatherData.class
+org\example\entity\Sys.class
